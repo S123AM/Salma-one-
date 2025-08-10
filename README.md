@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠 Tech & Tools
+
 ## 🛠 Tech & Tools
 <p>
   <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>

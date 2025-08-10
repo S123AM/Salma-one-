@@ -1,3 +1,8 @@
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77F00&size=28&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+a+Passionate+Data+Science+Learner;Eager+to+Work+on+Big+Projects!" alt="Typing Animation" />
+</p>
+
 # Hi there 👋, I'm [Salma Mostafa]
 
 💡 **Aspiring Data Scientist & AI Enthusiast**  

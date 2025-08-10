@@ -1,6 +1,11 @@
-<!-- Animated Header -->
+<!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77F00&size=28&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+a+Passionate+Data+Science+Learner;Eager+to+Work+on+Big+Projects!" alt="Typing Animation" />
+</p>
+
+<!-- Animated Graphic -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Data Science Animation" />
 </p>
 
 # Hi there , I'm [Salma Mostafa]

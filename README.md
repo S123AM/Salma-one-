@@ -38,10 +38,16 @@ Currently learning and building projects in **Python**, **Data Analysis**, and *
 - **Other:** Git & GitHub, Jupyter Notebook
 
 ---
-
 ## 📫 Let's Connect
-- **LinkedIn:** [[Your LinkedIn Link](https://www.linkedin.com/in/salma-mostafa2001/)]  
-- **Email:** [salma2024mostafa@gmail.com]  
+<p align="center">
+  <a href="[https://www.linkedin.com/in/YourLinkedInUsername/](https://www.linkedin.com/in/salma-mostafa2001/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:salma2024mostafa@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail"/>
+  </a>
+  
+</p>
 
 ---
 

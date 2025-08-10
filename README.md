@@ -1,7 +1,8 @@
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77F00&size=28&center=true&vCenter=true&width=650&lines=Hi+World!+👋+I'm+Salma+Mostafa;Aspiring+Data+Scientist+📊; Passionate+About+Turning+Data+Into+Insights;Always+Learning+%26+Ready+to+Collaborate" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77F00&size=28&center=true&vCenter=true&width=650&lines=Hi+World!+%F0%9F%91%8B+I'm+Salma+Mostafa;Aspiring+Data+Scientist+%F0%9F%93%8A;Passionate+About+Turning+Data+Into+Insights;Always+Learning+%26+Ready+to+Collaborate" alt="Typing Animation" />
 </p>
+
 
 <!-- Data Science GIF -->
 <p align="center">

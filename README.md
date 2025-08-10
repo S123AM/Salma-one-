@@ -28,8 +28,8 @@ Currently learning and building projects in **Python**, **Data Analysis**, and *
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn Link]  
-- **Email:** [Your Email]  
+- **LinkedIn:** [[Your LinkedIn Link](https://www.linkedin.com/in/salma-mostafa2001/)]  
+- **Email:** [salma2024mostafa@gmail.com]  
 
 ---
 
